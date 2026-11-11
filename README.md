@@ -3,3 +3,10 @@
 
 Hello! My name is Amina.
 I am a student interested in IT and programming.
+## My Skills
+
+- HTML
+- CSS
+- SQL
+- C++
+- Arduino
